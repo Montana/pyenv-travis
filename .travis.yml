@@ -5,4 +5,4 @@ before_install:
   - ./setup.sh
   - python --version
 install: skip
-script: echo "test"
+script: echo "testing"
